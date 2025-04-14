@@ -1,4 +1,3 @@
-# DCS-YOLO
 
 #                                     DCS-YOLO
 
