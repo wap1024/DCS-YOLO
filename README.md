@@ -13,6 +13,6 @@ If you have any questions about this project, please feel free to contact me via
 Dataset：
 Link: https://pan.baidu.com/s/18KPmKmHvQuUMLJQjQPFB_A?pwd=rnya Download code: rnya 
 ## We would appreciate it if you could cite the following two of our works when using this dataset. Thank you.
-[1]. DCS-YOLO: A blueberry maturity detection model in complex environments (Computers and Electronics in Agriculture)
-[2]. A visual detection method for blueberries with different ripeness in a complex orchard environment (Engineering Applications of Artificial Intelligence)
+### [1]. DCS-YOLO: A blueberry maturity detection model in complex environments (Computers and Electronics in Agriculture)
+### [2]. A visual detection method for blueberries with different ripeness in a complex orchard environment (Engineering Applications of Artificial Intelligence)
 
