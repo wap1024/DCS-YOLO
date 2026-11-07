@@ -19,7 +19,7 @@ volume = {248},
 pages = {111830},  
 year = {2026},  
 doi = {https://doi.org/10.1016/j.compag.2026.111830},  
-author = {Chengbiao Fu and Aiping Wang and Anhong Tian}  
+author = {Chengbiao Fu and Aiping Wang and Anhong Tian}
 }
 
 title = {A visual detection method for blueberries with different ripeness in a complex orchard environment},  
